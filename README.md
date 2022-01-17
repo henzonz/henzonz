@@ -1,0 +1,4 @@
+- Hi I'm Henzon! I'm currently looking for a Junior Software Engineer opportunity.
+- The tech/stack I have experience with: React, Node.js, Bootstrap, HTML/CSS, JavaScript, Express, and MySQL.
+- Currently, I'm building and designing a website for a small family owned restaurant in the Philippines called Kusinanichichi!
+- My current interest is on web development because I love the process of designing and building a website!
