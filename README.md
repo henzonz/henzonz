@@ -1,4 +1,3 @@
-- Hi I'm Henzon! I'm currently looking for a Junior Software Engineer opportunity.
-- The tech/stack I have experience with are: React, Node.js, Bootstrap, HTML/CSS, JavaScript, Express, and MySQL.
-- Currently, I'm building and designing a website for a small family owned restaurant.
-- My current interest is on web development because I love the process of designing and building a website!
+- Hi I'm Henzon! I have a deep interest and passion for Software Engineering.
+- I'm currently looking for Junior Software Engineering opportunities.
+- The tech/stack I have experience with are: React, Express.js, Node.js, Bootstrap, HTML/CSS, JavaScript, Express, and MySQL.
